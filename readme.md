@@ -1,8 +1,9 @@
 # NEU树梅派大作业
-## v0.0.2
+## v0.1.0
 --------
-* 对接差不多了
-* 优化了json结构
+* c++程序已经部署上了，py还没有部署
+* 要安装好多库
+* py的路径问题
 ```json
 {
    "134" : {
@@ -17,4 +18,13 @@
 ## 数据示例
 > 0 12345 smlie
 
-到此一游
+```shell
+conda activate name
+pip install urllib_kerberos
+pip install datetime
+pip install cv2
+pip install requests
+pip install os
+pip install pybase64
+```
+
