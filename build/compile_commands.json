@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/flora/Documents/GitHub/shumeipai2023.5.5/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/Demo.dir/main.cpp.o -c /home/flora/Documents/GitHub/shumeipai2023.5.5/main.cpp",
+  "file": "/home/flora/Documents/GitHub/shumeipai2023.5.5/main.cpp"
+},
+
+{
+  "directory": "/home/flora/Documents/GitHub/shumeipai2023.5.5/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/Demo.dir/shixian.cpp.o -c /home/flora/Documents/GitHub/shumeipai2023.5.5/shixian.cpp",
+  "file": "/home/flora/Documents/GitHub/shumeipai2023.5.5/shixian.cpp"
+},
+
+{
+  "directory": "/home/flora/Documents/GitHub/shumeipai2023.5.5/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/Demo.dir/jsoncpp.cpp.o -c /home/flora/Documents/GitHub/shumeipai2023.5.5/jsoncpp.cpp",
+  "file": "/home/flora/Documents/GitHub/shumeipai2023.5.5/jsoncpp.cpp"
+}
+]
