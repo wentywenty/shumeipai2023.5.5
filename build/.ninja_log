@@ -1,0 +1,5 @@
+# ninja log v5
+0	228	1683710399276426306	CMakeFiles/Demo.dir/main.cpp.o	2b376ec512c9ef53
+0	246	1683710399296421540	CMakeFiles/Demo.dir/shixian.cpp.o	987c6318ac890f40
+0	1086	1683710400132222317	CMakeFiles/Demo.dir/jsoncpp.cpp.o	4fbaeb891d1c6ee3
+1086	1143	1683710400192208032	Demo	12eedb27d439bc31
