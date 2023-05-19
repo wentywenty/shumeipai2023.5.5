@@ -1,9 +1,40 @@
-# NEU树梅派大作业
-## v0.1.0
---------
-* c++程序已经部署上了，py还没有部署
-* 要安装好多库
-* py的路径问题
+# NEU树莓派大作业v0.2.0
+## 1 播报实时状态
+先向主人问好
+zyt直接输出以下语句：
+### 天气
+温度加晴雨
+### 时间
+eg：2023年5月4日23点34分
+### cpu温度
+cpu温度为：
+### 内存使用
+内存已使用1111mb，一共8888mb，使用了30%
+### 磁盘空间使用
+磁盘已使用1111mb，一共11111mb，使用了50%
+
+## 2 启动ai交互
+### 今天心情怎么样？
+
+## 3 按门铃
+### 首先，启动人脸识别程序
+gqz启动程序，写入log.txt
+### 之后，语音助手根据10作不同回答
+语音助手：
+* 1主人你好
+* 0陌生人你好
+* smile  今天主人好像很开心呢
+* angry 主人看起来好像很
+* sad  今天主人有什么不开心的事吗
+* 
+### 模拟门锁LED开关
+为1则LED亮，0不做响应
+### 数据库系统启动
+读取log.txt，清空log.txt
+### 邮件备份
+将user.json发送到邮箱
+
+- json格式：
 ```json
 {
    "134" : {
@@ -15,16 +46,3 @@
    }
 }
 ```
-## 数据示例
-> 0 12345 smlie
-
-```shell
-conda activate name
-pip install urllib_kerberos
-pip install datetime
-pip install cv2
-pip install requests
-pip install os
-pip install pybase64
-```
-
